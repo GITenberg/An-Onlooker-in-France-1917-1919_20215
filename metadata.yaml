@@ -1,0 +1,30 @@
+_repo: An-Onlooker-in-France-1917-1919_20215
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Orpen, William, Sir
+    birthdate: 1878
+    deathdate: 1931
+    gutenberg_agent_id: '9160'
+    url: http://www.gutenberg.org/2009/agents/9160
+    wikipedia: http://en.wikipedia.org/wiki/William_Orpen
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20215'
+  lccn: '21006807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcsh 'World War, 1914-1918 -- Pictorial works'
+title: An Onlooker in France 1917-1919
+url: http://www.gutenberg.org/ebooks/20215
